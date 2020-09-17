@@ -2,6 +2,13 @@
 
 ## I'm a student and beginner developer
 
+✔️ I’m currently learning JS, React and NodeJS
+🎓 I am a student of RTU MIREA
+
+
+
+
+
 ### Languages and Tools
 ![Javascript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&LogoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
