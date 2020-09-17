@@ -2,7 +2,7 @@
 
 ## I'm a student and beginner developer
 
-✔️ I’m currently learning JS, React and NodeJS
+✔️ I’m currently learning JS, React and NodeJS  
 🎓 I am a student of RTU MIREA
 
 
