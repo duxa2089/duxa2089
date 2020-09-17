@@ -9,4 +9,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql)
 
-Follow Me
+### Social
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&LogoColor=E9D54D)](https://vk.com/id147538145)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/duxa2)
+
